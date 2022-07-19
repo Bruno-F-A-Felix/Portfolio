@@ -1,6 +1,4 @@
-Olá, eu sou o 
-
-Bruno Félix,
+Olá, eu sou o Bruno Félix,
 
 E e eu sou um aspirante a Programador Front-End.
 
