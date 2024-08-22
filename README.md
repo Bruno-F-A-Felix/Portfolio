@@ -1,6 +1,6 @@
 Olá, eu sou o Bruno Félix,
 
-E e eu sou um aspirante a Programador Front-End.
+E e eu sou um aspirante a Programador de Automação e FullStack.
 
 Conheça um pouco sobre mim e meus trabalhos acessando o meu Portfólio abaixo.
 
